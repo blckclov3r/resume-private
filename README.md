@@ -4,10 +4,9 @@
 
 📱 09239318969  
 📧 blckclov3r@gmail.com  
-🐙 GitHub: [blckclov3r](https://github.com/blckclov3r)  
-💼 LinkedIn: [blckclov3r](https://www.linkedin.com/in/blckclov3r/)  
+🐙 [GitHub](https://github.com/blckclov3r)  
+💼 [LinkedIn](https://www.linkedin.com/in/blckclov3r/)  
 
-**Group 2 – Grouped Object**
 
 ---
 
