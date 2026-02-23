@@ -1,127 +1,73 @@
-# Aljun Abrenica – Resume
+# Aljun Abrenica
 
-**Also known as:** blckclov3r
+## React Developer
 
-This repository contains my professional resume as a **ReactJS Developer / Software Engineer**.
+📱 09239318969  
+📧 blckclov3r@gmail.com  
+🐙 GitHub: [blckclov3r](https://github.com/blckclov3r)  
+💼 LinkedIn: [blckclov3r](https://www.linkedin.com/in/blckclov3r/)  
+
+**Group 2 – Grouped Object**
 
 ---
 
 ## About Me
 
-Computer Engineering graduate with over **3 years of experience** in the IT industry.  
-Specialized in web development with a focus on building **scalable, maintainable, and reusable** frontend applications using modern JavaScript frameworks.
+React Developer with 3+ years of experience building scalable and maintainable web applications using React, TypeScript, and modern frontend ecosystems. Strong background in reusable component architecture, performance optimization, and Agile collaboration.
 
 ---
 
-## Professional Experience
+## Experience
 
-### Accenture  
-**Advanced Application Engineering Analyst**  
-*September 2024 – Present*
-- Write clear, efficient, and maintainable code following best practices  
-- Build modular and reusable components using React hooks  
-- Actively participate in code reviews and version control workflows  
+### ACCENTURE | Advance Application Engineering Analyst  
+**September 2024 – Present**  
+**Tech:** React, TypeScript, Redux, MUI, Node.js, Git  
 
-### AJIO IT Solutions  
-**ReactJS Developer**  
-*August 2022 – August 2024*
-- Developed clean and reusable React components  
-- Ensured code quality through testing and best practices  
-- Collaborated using Git, pull requests, and branch management  
+- Developed modular and reusable React components to improve development efficiency and maintainability.  
+- Improved application performance by reducing unnecessary re-renders and optimizing API calls, resulting in faster page load and better user experience.  
+- Assisted in debugging and resolving production issues.  
+- Participated in code reviews to ensure code quality and adherence to best practices.  
 
-### Mindweb eSolutions  
-**Software Engineer**  
-*October 2020 – January 2022*
-- Fixed bugs and maintained production websites  
-- Worked on systems for universities, hospitals, and government offices  
+---
 
-### Asian Wave  
-**Web Developer**  
-*February 2020 – July 2020*
-- Developed websites  
-- Managed product and pricing records  
+### AJIO IT Solutions | ReactJS Developer  
+**August 2022 – August 2024**  
+**Tech:** NextJS, React, TypeScript, GraphQL, Recoil, Prisma, MUI, SQL  
 
-### Mindweb eSolutions  
-**Android Developer (OJT)**  
-*2019*
-- Built Android applications using Java  
-- Applied MVC and MVVM patterns  
-- Used Firebase Realtime Database  
+- Built scalable frontend features using React hooks and modern state management.  
+- Created reusable UI components used across multiple modules.  
+- Fixed bugs and improved user experience through performance optimization.  
+- Collaborated using Git workflows with pull requests and code reviews.  
+
+---
+
+### Mindweb eSolutions | Software Engineer  
+**October 2020 – January 2022**  
+
+- Developed and maintained websites for multiple clients including universities and hospitals.  
+- Implemented UI enhancements and resolved technical issues.  
+
+---
+
+### Mindweb eSolutions | Android Developer (OJT)  
+**2019**  
+
+- Developed Android applications using Java with MVC and MVVM architecture.  
+- Integrated Firebase Realtime Database for backend services.  
 
 ---
 
 ## Education
 
-### University of the Visayas  
-**BS Computer Engineering**
+### University of the Visayas | BS Computer Engineering  
+**February 2015 – July 2020**
 
-**Projects:**
-- Smart Attendance IoT System (Arduino, RFID, Firebase)  
-- Cebu Jeep Fare Android Application  
-- Gas Leak Detector with GSM  
-- Bill Acceptor System  
+- Developed projects including IoT-based attendance systems, Android applications, and embedded systems using Arduino and GSM technology.
 
 ---
 
-## Certifications
+## Certificates
 
-- **National Certificate II – Computer System Servicing**  
-  Certificate No. 18072202005880  
-
----
-
-## Technical Skills
-
-### Frontend Development
-- HTML, CSS, JavaScript, TypeScript  
-- ReactJS, Redux, Next.js  
-- MUI (Material UI), Bootstrap, jQuery  
-- GraphQL  
-
-### Backend Development
-- Node.js, Express.js  
-- Prisma  
-- MERN Stack  
-- .NET Razor Pages  
-
-### Databases
-- SQL  
-- MongoDB  
-- Firebase  
-
-### Tools & Technologies
-- Docker, Cypress  
-- Git, Git Bash  
-- Postman  
-- Hasura, Marmelab  
-- Arduino  
-- XAMPP, WampServer  
-
-### Programming Languages
-- Java  
-- C / C++  
-
-### IDEs
-- Visual Studio Code  
-- Visual Studio  
-- IntelliJ IDEA  
-- Android Studio  
-- Eclipse, NetBeans  
-
----
-
-## Contact
-
-- **Name:** Aljun Abrenica  
-- **Alias:** blckclov3r  
-- **Role:** ReactJS Developer  
-- **Email:** blckclov3r@gmail.com  
-- **Phone:** 09239318969  
-- **GitHub:** https://github.com/blckclov3r  
-- **LinkedIn:** https://www.linkedin.com/in/blckclov3r/
-
----
-
-## License
-
-MIT License
+- [ReactJS Certification — Udemy](https://www.udemy.com/certificate/UC-bef75479-1a9b-417f-abc3-177bfa343ebf/)  
+- [Node.js Certification — Udemy](https://www.udemy.com/certificate/UC-0ee78359-6719-47e8-8950-373b256fa81f/)  
+- [Angular Certification — Udemy](https://www.udemy.com/certificate/UC-04f9a9a7-b541-4445-bb6d-c6464958d953/)  
